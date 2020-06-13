@@ -45,4 +45,12 @@
 **Link to work:** 
 [Codeforces](https://codeforces.com/profile/Aman-Codes)
 
+### Day 5: June 13, 2020 
+
+**Today's Progress**:Started 30 Days Of Code.
+
+**Thoughts:** Good tutorial to brush up basic concepts.
+
+**Link to work:** 
+[HackerRank](https://www.hackerrank.com/Aman_Codes)
 
