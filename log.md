@@ -56,7 +56,8 @@
 
 ### Day 6: June 14, 2020 
 
-**Today's Progress**:Earned Bronze badge in 30 days of code HackerRank and completed the week 1 assignment of Front-End Web Development with React on Coursera
+**Today's Progress**:Earned Bronze badge in 30 days of code HackerRank and completed the week 1 assignment of Front-End Web Development with React on Coursera.
+
 **Thoughts:** Feeling good to manage both wed development and competitive programming together.
 
 **Link to work:** 
