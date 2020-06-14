@@ -47,9 +47,17 @@
 
 ### Day 5: June 13, 2020 
 
-**Today's Progress**:Started 30 Days Of Code.
+**Today's Progress**:Started 30 Days Of Code in HackerRank.
 
 **Thoughts:** Good tutorial to brush up basic concepts.
+
+**Link to work:** 
+[HackerRank](https://www.hackerrank.com/Aman_Codes)
+
+### Day 6: June 14, 2020 
+
+**Today's Progress**:Earned Bronze badge in 30 days of code HackerRank and completed the week 1 assignment of Front-End Web Development with React on Coursera
+**Thoughts:** Feeling good to manage both wed development and competitive programming together.
 
 **Link to work:** 
 [HackerRank](https://www.hackerrank.com/Aman_Codes)
