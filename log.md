@@ -63,3 +63,12 @@
 **Link to work:** 
 [HackerRank](https://www.hackerrank.com/Aman_Codes)
 
+### Day 7: June 15, 2020 
+
+**Today's Progress**: Solved questions from 30 days of code HackerRank.
+
+**Thoughts:** Revised and practised basic concepts of programming.
+
+**Link to work:** 
+[HackerRank](https://www.hackerrank.com/Aman_Codes)
+
