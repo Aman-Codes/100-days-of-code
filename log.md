@@ -72,3 +72,12 @@
 **Link to work:** 
 [HackerRank](https://www.hackerrank.com/Aman_Codes)
 
+### Day 8: June 16, 2020 
+
+**Today's Progress**: Solved questions from 30 days of code HackerRank and gave contest on Codeforces.
+
+**Thoughts:** Revised and practised basic concepts of programming.
+
+**Link to work:** 
+[HackerRank](https://www.hackerrank.com/Aman_Codes)
+
