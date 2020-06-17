@@ -81,3 +81,12 @@
 **Link to work:** 
 [HackerRank](https://www.hackerrank.com/Aman_Codes)
 
+### Day 9: June 17, 2020 
+
+**Today's Progress**: Practised questions from CodeChef.
+
+**Thoughts:** Revised and practised basic concepts of programming.
+
+**Link to work:** 
+[CodeChef](https://www.codechef.com/users/aman_dwivedi)
+
