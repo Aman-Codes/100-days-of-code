@@ -90,3 +90,12 @@
 **Link to work:** 
 [CodeChef](https://www.codechef.com/users/aman_dwivedi)
 
+### Day 10: June 18, 2020 
+
+**Today's Progress**: Practised questions from Codeforces.
+
+**Thoughts:** Revised and practised basic concepts of programming.
+
+**Link to work:** 
+[Codeforces](https://codeforces.com/profile/Aman-Codes)
+
