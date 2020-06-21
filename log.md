@@ -120,3 +120,12 @@
 **Link to work:** 
 [Codeforces](https://codeforces.com/profile/Aman-Codes)
 
+### Day 13: June 21, 2020 
+
+**Today's Progress**: Practised questions from Codeforces.
+
+**Thoughts:** Revised and practised basic concepts of programming.
+
+**Link to work:** 
+[Codeforces](https://codeforces.com/profile/Aman-Codes)
+
