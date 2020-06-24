@@ -147,4 +147,14 @@
 **Link to work:** 
 [Codeforces](https://codeforces.com/profile/Aman-Codes)
 
+### Day 16: June 24, 2020 
+
+**Today's Progress**: Practised questions from Codeforces.
+
+**Thoughts:** Made a game - Brick Breaking Game using HTML canvas, CSS and JavaScript. Revised and practised basic concepts of programming.
+
+**Link to work:** 
+[Codeforces](https://codeforces.com/profile/Aman-Codes)
+[Brick Breaking Game](https://aman-codes.github.io/BrickBreakingGame/index.html)
+
 
