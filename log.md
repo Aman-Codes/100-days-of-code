@@ -157,4 +157,12 @@
 [Codeforces](https://codeforces.com/profile/Aman-Codes)
 [Brick Breaking Game](https://aman-codes.github.io/BrickBreakingGame/index.html)
 
+### Day 17: June 25, 2020 
+
+**Today's Progress**: Attempted Educational Codeforces Round 90 on Codeforces
+
+**Thoughts:** Practised questions from Codeforces
+
+**Link to work:** 
+[Codeforces](https://codeforces.com/profile/Aman-Codes)
 
