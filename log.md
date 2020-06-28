@@ -23,7 +23,7 @@
 
 ### Day 2: June 10, 2020 
  
-**Today's Progress**: Learned responsive web designing and using bootstrap Front-End Web UI Frameworks and Tools by The Hong Kong University of Science and Technology through Coursera.
+**Today's Progress**: Learned responsive web designing and using bootstrap from Front-End Web UI Frameworks and Tools by The Hong Kong University of Science and Technology through Coursera.
 
 **Thoughts:** Feeling good to learn responsive web designing.
 
@@ -178,6 +178,15 @@
 ### Day 19: June 27, 2020 
 
 **Today's Progress**: Practised questions from Codeforces.
+
+**Thoughts:** Revised and practised basic concepts of programming.
+
+**Link to work:** 
+[Codeforces](https://codeforces.com/profile/Aman-Codes)
+
+### Day 20: June 28, 2020 
+
+**Today's Progress**: Practised questions from Codeforces and completed week 3 of  Front-End Web UI Frameworks and Tools from Coursera
 
 **Thoughts:** Revised and practised basic concepts of programming.
 
