@@ -211,3 +211,12 @@
 **Link to work:** 
 [Codeforces](https://codeforces.com/profile/Aman-Codes)
 
+## Day 23: July 1, 2020 
+
+**Today's Progress**: Practised questions from Codeforces.
+
+**Thoughts:** Revised and practised basic concepts of programming.
+
+**Link to work:** 
+[Codeforces](https://codeforces.com/profile/Aman-Codes)
+
