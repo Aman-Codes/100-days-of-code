@@ -220,3 +220,11 @@
 **Link to work:** 
 [Codeforces](https://codeforces.com/profile/Aman-Codes)
 
+## Day 24: July 2, 2020 
+
+**Today's Progress**: Practised questions from GeeksforGeeks.
+
+**Thoughts:** Revised and practised basic concepts of programming.
+
+**Link to work:** 
+[Codeforces](https://codeforces.com/profile/Aman-Codes)
