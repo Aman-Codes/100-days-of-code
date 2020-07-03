@@ -226,5 +226,8 @@
 
 **Thoughts:** Revised and practised basic concepts of programming.
 
-**Link to work:** 
-[Codeforces](https://codeforces.com/profile/Aman-Codes)
+## Day 25: July 3, 2020 
+
+**Today's Progress**: Learning about linked list from geeksforgeeks and practised questions on it.
+
+**Thoughts:** Revised and practised basic questions on linked list.
