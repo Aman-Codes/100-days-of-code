@@ -231,3 +231,10 @@
 **Today's Progress**: Learning about linked list from geeksforgeeks and practised questions on it.
 
 **Thoughts:** Revised and practised basic questions on linked list.
+
+## Day 26: July 4, 2020 
+
+**Today's Progress**: Solved first 3 questions of July long challenge on Codechef.
+
+**Thoughts:** Solved questions from Codechef
+
