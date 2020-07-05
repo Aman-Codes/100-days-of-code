@@ -238,3 +238,9 @@
 
 **Thoughts:** Solved questions from Codechef
 
+## Day 27: July 5, 2020 
+/
+**Today's Progress**:  Completed week 4 of Front-End Web UI Frameworks and Tools from Coursera
+
+**Thoughts:** Finally finished my first course on Coursera
+
