@@ -250,3 +250,15 @@
 
 **Thoughts:** Finally finished my second course on Coursera
 
+## Day 29: July 7, 2020 
+
+**Today's Progress**:  Started course on Angular framework from Coursera
+
+**Thoughts:** Learned basics of Angular
+
+Day 30: July 8, 2020 
+
+**Today's Progress**:  Continued my learning of Angular framework from Coursera
+
+**Thoughts:** Learned basics of Angular
+
