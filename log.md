@@ -262,3 +262,10 @@ Day 30: July 8, 2020
 
 **Thoughts:** Learned basics of Angular
 
+Day 31: July 9, 2020 
+
+**Today's Progress**: Practised questions from GeeksForGeeks
+
+**Thoughts:** Practised questions from GeeksForGeeks
+
+
