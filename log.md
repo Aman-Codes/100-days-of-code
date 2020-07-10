@@ -268,4 +268,10 @@ Day 31: July 9, 2020
 
 **Thoughts:** Practised questions from GeeksForGeeks
 
+Day 32: July 10, 2020 
+
+**Today's Progress**: Practised questions from GeeksForGeeks
+
+**Thoughts:** Practised questions from GeeksForGeeks
+
 
