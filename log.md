@@ -274,4 +274,13 @@ Day 32: July 10, 2020
 
 **Thoughts:** Practised questions from GeeksForGeeks
 
+Day 33: July 11, 2020 
+
+**Today's Progress**: Practised questions from Codeforces
+
+**Thoughts:** Practised questions from Codeforces
+
+**Link to work:** 
+[Codeforces](https://codeforces.com/profile/Aman-Codes)
+
 
