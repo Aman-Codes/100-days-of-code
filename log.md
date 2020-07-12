@@ -283,4 +283,8 @@ Day 33: July 11, 2020
 **Link to work:** 
 [Codeforces](https://codeforces.com/profile/Aman-Codes)
 
+Day 34: July 12, 2020 
 
+**Today's Progress**: Completed week 1 of Angular course from Coursera
+
+**Thoughts:** Completed week 1 of Angular course from Coursera
