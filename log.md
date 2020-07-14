@@ -256,25 +256,25 @@
 
 **Thoughts:** Learned basics of Angular
 
-Day 30: July 8, 2020 
+## Day 30: July 8, 2020 
 
 **Today's Progress**:  Continued my learning of Angular framework from Coursera
 
 **Thoughts:** Learned basics of Angular
 
-Day 31: July 9, 2020 
+## Day 31: July 9, 2020 
 
 **Today's Progress**: Practised questions from GeeksForGeeks
 
 **Thoughts:** Practised questions from GeeksForGeeks
 
-Day 32: July 10, 2020 
+## Day 32: July 10, 2020 
 
 **Today's Progress**: Practised questions from GeeksForGeeks
 
 **Thoughts:** Practised questions from GeeksForGeeks
 
-Day 33: July 11, 2020 
+## Day 33: July 11, 2020 
 
 **Today's Progress**: Practised questions from Codeforces
 
@@ -283,8 +283,20 @@ Day 33: July 11, 2020
 **Link to work:** 
 [Codeforces](https://codeforces.com/profile/Aman-Codes)
 
-Day 34: July 12, 2020 
+## Day 34: July 12, 2020 
 
 **Today's Progress**: Completed week 1 of Angular course from Coursera
 
 **Thoughts:** Completed week 1 of Angular course from Coursera
+
+## Day 35: July 13, 2020 
+
+**Today's Progress**: Solved questions from Codechef
+
+**Thoughts:** Solved questions from Codechef
+
+## Day 36: July 14, 2020 
+
+**Today's Progress**: Started week 2 of Angular course from Coursera
+
+**Thoughts:** Started week 2 of Angular course from Coursera
