@@ -300,3 +300,9 @@
 **Today's Progress**: Started week 2 of Angular course from Coursera
 
 **Thoughts:** Started week 2 of Angular course from Coursera
+
+## Day 37: July 15, 2020 
+
+**Today's Progress**: Continued week 2 of Angular course from Coursera
+
+**Thoughts:** Continued week 2 of Angular course from Coursera
