@@ -306,3 +306,9 @@
 **Today's Progress**: Continued week 2 of Angular course from Coursera
 
 **Thoughts:** Continued week 2 of Angular course from Coursera
+
+## Day 38: July 16, 2020 
+
+**Today's Progress**: Continued week 2 of Angular course from Coursera
+
+**Thoughts:** Continued week 2 of Angular course from Coursera
