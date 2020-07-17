@@ -312,3 +312,9 @@
 **Today's Progress**: Continued week 2 of Angular course from Coursera
 
 **Thoughts:** Continued week 2 of Angular course from Coursera
+
+## Day 39: July 17, 2020 
+
+**Today's Progress**: Practised questions from LeetCode and Codeforces
+
+**Thoughts:** Practised questions from LeetCode and Codeforces
