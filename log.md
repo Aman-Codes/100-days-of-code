@@ -336,3 +336,15 @@
 **Today's Progress**: Practised questions from LeetCode and completed week 2 of Angular course from Coursera
 
 **Thoughts:**  Completed week 2 of Angular course from Coursera
+
+## Day 43: July 21, 2020 
+
+**Today's Progress**: Practised questions from LeetCode and started week 3 of Angular course from Coursera
+
+**Thoughts:**  Started week 3 of Angular course from Coursera
+
+## Day 44: July 22, 2020 
+
+**Today's Progress**: Practised questions from LeetCode 
+
+**Thoughts:**  Practised questions from LeetCode 
