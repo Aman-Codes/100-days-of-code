@@ -348,3 +348,9 @@
 **Today's Progress**: Practised questions from LeetCode 
 
 **Thoughts:**  Practised questions from LeetCode 
+
+## Day 45: July 23, 2020 
+
+**Today's Progress**: Practised questions from LeetCode 
+
+**Thoughts:**  Practised questions from LeetCode 
