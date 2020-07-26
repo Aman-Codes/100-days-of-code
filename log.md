@@ -366,3 +366,9 @@
 **Today's Progress**: Practised questions from LeetCode
 
 **Thoughts:**  Learned about set (ordered and unordered)
+
+# Day 48: July 26, 2020 
+
+**Today's Progress**: Practised questions from LeetCode
+
+**Thoughts:**  Practised questions from LeetCode
