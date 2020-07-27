@@ -372,3 +372,9 @@
 **Today's Progress**: Practised questions from LeetCode
 
 **Thoughts:**  Practised questions from LeetCode
+
+# Day 49: July 27, 2020 
+
+**Today's Progress**: Learned to implement login via G+ and Facebook in Nodejs
+
+**Thoughts:** Also created profile readme in GitHub
