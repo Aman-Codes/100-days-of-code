@@ -378,3 +378,9 @@
 **Today's Progress**: Learned to implement login via G+ and Facebook in Nodejs
 
 **Thoughts:** Also created profile readme in GitHub
+
+# Day 50: July 28, 2020 
+
+**Today's Progress**: Practised questions from GeeksForGeeks
+
+**Thoughts:** Practised questions from GeeksForGeeks
