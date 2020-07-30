@@ -390,3 +390,11 @@
 **Today's Progress**: Practised questions from GeeksForGeeks
 
 **Thoughts:** Practised questions from GeeksForGeeks
+
+
+# Day 52: July 30, 2020 
+
+**Today's Progress**: Learned about AWS working and solved questions on linked list
+
+**Thoughts:** Learned about AWS working and solved questions on linked list
+
