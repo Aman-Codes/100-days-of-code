@@ -404,3 +404,10 @@
 
 **Thoughts:** Practised questions from GeeksForGeeks
 
+
+# Day 54: August 1, 2020 
+
+**Today's Progress**: Practised questions from GeeksForGeeks
+
+**Thoughts:** Practised questions from GeeksForGeeks
+
