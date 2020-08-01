@@ -398,3 +398,9 @@
 
 **Thoughts:** Learned about AWS working and solved questions on linked list
 
+# Day 53: July 31, 2020 
+
+**Today's Progress**: Practised questions from GeeksForGeeks
+
+**Thoughts:** Practised questions from GeeksForGeeks
+
