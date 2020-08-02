@@ -391,7 +391,6 @@
 
 **Thoughts:** Practised questions from GeeksForGeeks
 
-
 # Day 52: July 30, 2020 
 
 **Today's Progress**: Learned about AWS working and solved questions on linked list
@@ -404,10 +403,17 @@
 
 **Thoughts:** Practised questions from GeeksForGeeks
 
-
 # Day 54: August 1, 2020 
 
 **Today's Progress**: Practised questions from GeeksForGeeks
 
 **Thoughts:** Practised questions from GeeksForGeeks
 
+# Day 55: August 2, 2020 
+
+**Today's Progress**: Started Creating my portfolio
+
+**Thoughts:** Started Creating my portfolio
+
+**Link to work:** 
+[Portfolio](https://aman-codes.github.io/)
