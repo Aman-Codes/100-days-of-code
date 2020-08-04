@@ -417,3 +417,18 @@
 
 **Link to work:** 
 [Portfolio](https://aman-codes.github.io/)
+
+# Day 56: August 3, 2020 
+
+**Today's Progress**: Completed creating my portfolio
+
+**Thoughts:** Completed creating my portfolio
+
+**Link to work:** 
+[Portfolio](https://aman-codes.github.io/)
+
+ Day 57: August 4, 2020 
+
+**Today's Progress**: Started the course Algorithmic Toolbar from Coursera
+
+**Thoughts:** Started the course Algorithmic Toolbar from Coursera
