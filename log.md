@@ -438,3 +438,9 @@ Day 58: August 5, 2020
 **Today's Progress**: Completed week 1 of the course Algorithmic Toolbar from Coursera
 
 **Thoughts:** Completed week 1 of the course Algorithmic Toolbar from Coursera
+
+Day 59: August 6, 2020 
+
+**Today's Progress**: Started week 2 of the course Algorithmic Toolbar from Coursera
+
+**Thoughts:** Started week  of the course Algorithmic Toolbar from Coursera
