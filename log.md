@@ -443,4 +443,9 @@ Day 59: August 6, 2020
 
 **Today's Progress**: Started week 2 of the course Algorithmic Toolbar from Coursera
 
-**Thoughts:** Started week  of the course Algorithmic Toolbar from Coursera
+**Thoughts:** Started week 2 of the course Algorithmic Toolbar from Coursera
+
+Day 60: August 7, 2020 
+
+**Today's Progress**: Solved 2 questions in Codechef August Long Challenge
+
