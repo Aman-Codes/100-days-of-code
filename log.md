@@ -449,3 +449,7 @@ Day 60: August 7, 2020
 
 **Today's Progress**: Solved 2 questions in Codechef August Long Challenge
 
+Day 61: August 8, 2020 
+
+**Today's Progress**: Solved 2 more questions fully and 1 partially in Codechef August Long Challenge
+
