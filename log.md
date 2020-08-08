@@ -355,61 +355,61 @@
 
 **Thoughts:**  Practised questions from LeetCode 
 
-# Day 46: July 24, 2020 
+## Day 46: July 24, 2020 
 
 **Today's Progress**: Practised questions from LeetCode 
 
 **Thoughts:**  Practised questions from LeetCode 
 
-# Day 47: July 25, 2020 
+## Day 47: July 25, 2020 
 
 **Today's Progress**: Practised questions from LeetCode
 
 **Thoughts:**  Learned about set (ordered and unordered)
 
-# Day 48: July 26, 2020 
+## Day 48: July 26, 2020 
 
 **Today's Progress**: Practised questions from LeetCode
 
 **Thoughts:**  Practised questions from LeetCode
 
-# Day 49: July 27, 2020 
+## Day 49: July 27, 2020 
 
 **Today's Progress**: Learned to implement login via G+ and Facebook in Nodejs
 
 **Thoughts:** Also created profile readme in GitHub
 
-# Day 50: July 28, 2020 
+## Day 50: July 28, 2020 
 
 **Today's Progress**: Practised questions from GeeksForGeeks
 
 **Thoughts:** Practised questions from GeeksForGeeks
 
-# Day 51: July 29, 2020 
+## Day 51: July 29, 2020 
 
 **Today's Progress**: Practised questions from GeeksForGeeks
 
 **Thoughts:** Practised questions from GeeksForGeeks
 
-# Day 52: July 30, 2020 
+## Day 52: July 30, 2020 
 
 **Today's Progress**: Learned about AWS working and solved questions on linked list
 
 **Thoughts:** Learned about AWS working and solved questions on linked list
 
-# Day 53: July 31, 2020 
+## Day 53: July 31, 2020 
 
 **Today's Progress**: Practised questions from GeeksForGeeks
 
 **Thoughts:** Practised questions from GeeksForGeeks
 
-# Day 54: August 1, 2020 
+## Day 54: August 1, 2020 
 
 **Today's Progress**: Practised questions from GeeksForGeeks
 
 **Thoughts:** Practised questions from GeeksForGeeks
 
-# Day 55: August 2, 2020 
+## Day 55: August 2, 2020 
 
 **Today's Progress**: Started Creating my portfolio
 
@@ -418,7 +418,7 @@
 **Link to work:** 
 [Portfolio](https://aman-codes.github.io/)
 
-# Day 56: August 3, 2020 
+## Day 56: August 3, 2020 
 
 **Today's Progress**: Completed creating my portfolio
 
@@ -427,29 +427,29 @@
 **Link to work:** 
 [Portfolio](https://aman-codes.github.io/)
 
- Day 57: August 4, 2020 
+## Day 57: August 4, 2020 
 
 **Today's Progress**: Started the course Algorithmic Toolbar from Coursera
 
 **Thoughts:** Started the course Algorithmic Toolbar from Coursera
 
-Day 58: August 5, 2020 
+## Day 58: August 5, 2020 
 
 **Today's Progress**: Completed week 1 of the course Algorithmic Toolbar from Coursera
 
 **Thoughts:** Completed week 1 of the course Algorithmic Toolbar from Coursera
 
-Day 59: August 6, 2020 
+## Day 59: August 6, 2020 
 
 **Today's Progress**: Started week 2 of the course Algorithmic Toolbar from Coursera
 
 **Thoughts:** Started week 2 of the course Algorithmic Toolbar from Coursera
 
-Day 60: August 7, 2020 
+## Day 60: August 7, 2020 
 
 **Today's Progress**: Solved 2 questions in Codechef August Long Challenge
 
-Day 61: August 8, 2020 
+## Day 61: August 8, 2020 
 
 **Today's Progress**: Solved 2 more questions fully and 1 partially in Codechef August Long Challenge
 
