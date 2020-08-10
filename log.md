@@ -453,8 +453,10 @@
 
 **Today's Progress**: Solved 2 more questions fully and 1 partially in Codechef August Long Challenge
 
-
 ## Day 62: August 9, 2020 
 
 **Today's Progress**: Solved 1 partially in Codechef August Long Challenge
 
+## Day 63: August 10, 2020 
+
+**Today's Progress**: Started working on the project EventUp
