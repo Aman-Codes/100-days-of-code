@@ -460,3 +460,7 @@
 ## Day 63: August 10, 2020 
 
 **Today's Progress**: Started working on the project EventUp
+
+## Day 64: August 11, 2020 
+
+**Today's Progress**: Practised questions from Geeks for Geeks
