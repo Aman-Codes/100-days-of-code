@@ -464,3 +464,7 @@
 ## Day 64: August 11, 2020 
 
 **Today's Progress**: Practised questions from Geeks for Geeks
+
+## Day 65: August 12, 2020 
+
+**Today's Progress**: Practised questions from Geeks for Geeks
