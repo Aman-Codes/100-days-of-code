@@ -476,3 +476,7 @@
 ## Day 67: August 14, 2020 
 
 **Today's Progress**: Practised questions from Geeks for Geeks
+
+## Day 68: August 15, 2020 
+
+**Today's Progress**: Practised questions from Geeks for Geeks and solved daily challenge at Leetcode
