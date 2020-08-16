@@ -480,3 +480,7 @@
 ## Day 68: August 15, 2020 
 
 **Today's Progress**: Practised questions from Geeks for Geeks and solved daily challenge at Leetcode
+
+## Day 69: August 16, 2020 
+
+**Today's Progress**: Solved daily challenge from Leetcode and started learning SQL from W3Schools
