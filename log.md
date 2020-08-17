@@ -484,3 +484,7 @@
 ## Day 69: August 16, 2020 
 
 **Today's Progress**: Solved daily challenge from Leetcode and started learning SQL from W3Schools
+
+## Day 70: August 17, 2020 
+
+**Today's Progress**: Solved daily challenge from Leetcode and continued learning SQL from W3Schools
