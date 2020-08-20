@@ -496,3 +496,7 @@
 ## Day 72: August 19, 2020 
 
 **Today's Progress**: Solved daily challenge from Leetcode and practised questions from Geeks for Geeks
+
+## Day 73: August 20, 2020 
+
+**Today's Progress**: Practised questions from Geeks for Geeks
