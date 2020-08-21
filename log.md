@@ -500,3 +500,7 @@
 ## Day 73: August 20, 2020 
 
 **Today's Progress**: Practised questions from Geeks for Geeks
+
+## Day 74: August 21, 2020 
+
+**Today's Progress**: Started learning linked list from Geeks for Geeks
