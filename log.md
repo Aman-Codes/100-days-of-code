@@ -504,3 +504,7 @@
 ## Day 74: August 21, 2020 
 
 **Today's Progress**: Started learning linked list from Geeks for Geeks
+
+## Day 75: August 22, 2020 
+
+**Today's Progress**: Continued learning linked list from Geeks for Geeks
