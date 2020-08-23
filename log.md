@@ -508,3 +508,7 @@
 ## Day 75: August 22, 2020 
 
 **Today's Progress**: Continued learning linked list from Geeks for Geeks
+
+## Day 76: August 23, 2020 
+
+**Today's Progress**: Practised questions from Geeks for Geeks
