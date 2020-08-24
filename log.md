@@ -512,3 +512,7 @@
 ## Day 76: August 23, 2020 
 
 **Today's Progress**: Practised questions from Geeks for Geeks
+
+## Day 77: August 24, 2020 
+
+**Today's Progress**: Practised questions from Geeks for Geeks
