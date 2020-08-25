@@ -516,3 +516,7 @@
 ## Day 77: August 24, 2020 
 
 **Today's Progress**: Practised questions from Geeks for Geeks
+
+## Day 78: August 25, 2020 
+
+**Today's Progress**: Practised questions from Codeforces
