@@ -532,3 +532,11 @@
 ## Day 81: August 28, 2020 
 
 **Today's Progress**: Practised questions on circular linked list
+
+## Day 82: August 29, 2020 
+
+**Today's Progress**: Gave CodeChef August Lunch Time Contest
+
+## Day 83: August 30, 2020 
+
+**Today's Progress**: Solved quesions from spoj
