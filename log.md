@@ -539,8 +539,12 @@
 
 ## Day 83: August 30, 2020 
 
-**Today's Progress**: Solved quesions from spoj
+**Today's Progress**: Solved questions from spoj
 
 ## Day 84: August 31, 2020 
 
-**Today's Progress**: Solved quesions from spoj
+**Today's Progress**: Solved questions from spoj
+
+## Day 85: September 1, 2020 
+
+**Today's Progress**: Practised questions from Geeks for Geeks
