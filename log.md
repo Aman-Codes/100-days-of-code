@@ -548,3 +548,7 @@
 ## Day 85: September 1, 2020 
 
 **Today's Progress**: Practised questions from Geeks for Geeks
+
+## Day 86: September 2, 2020 
+
+**Today's Progress**: Practised questions from Geeks for Geeks
