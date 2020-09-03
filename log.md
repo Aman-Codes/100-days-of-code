@@ -552,3 +552,7 @@
 ## Day 86: September 2, 2020 
 
 **Today's Progress**: Practised questions from Geeks for Geeks
+
+## Day 87: September 3, 2020 
+
+**Today's Progress**: Practised questions from SPOJ
