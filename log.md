@@ -560,3 +560,7 @@
 ## Day 88: September 4, 2020 
 
 **Today's Progress**: Solved 1 question from SPOJ, 1 question from Codechef long challenge and 2 questions in Codeforces div 3 contest
+
+## Day 89: September 5, 2020 
+
+**Today's Progress**: Practised questions from SPOJ
