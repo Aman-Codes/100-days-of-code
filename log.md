@@ -568,3 +568,7 @@
 ## Day 90: September 6, 2020 
 
 **Today's Progress**: Gave Codeforces div 2 contest
+
+## Day 91: September 7, 2020 
+
+**Today's Progress**: Practised questions on number theory from spoj
