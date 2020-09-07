@@ -564,3 +564,7 @@
 ## Day 89: September 5, 2020 
 
 **Today's Progress**: Practised questions from SPOJ
+
+## Day 90: September 6, 2020 
+
+**Today's Progress**: Gave Codeforces div 2 contest
