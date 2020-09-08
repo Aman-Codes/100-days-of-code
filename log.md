@@ -572,3 +572,7 @@
 ## Day 91: September 7, 2020 
 
 **Today's Progress**: Practised questions on number theory from spoj
+
+## Day 92: September 8, 2020 
+
+**Today's Progress**: Practised questions on number theory
