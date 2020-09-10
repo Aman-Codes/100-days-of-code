@@ -576,3 +576,11 @@
 ## Day 92: September 8, 2020 
 
 **Today's Progress**: Practised questions on number theory
+
+## Day 93: September 9, 2020 
+
+**Today's Progress**: Implemented sending emails using node mailer
+
+## Day 94: September 10, 2020 
+
+**Today's Progress**: Learned php online and practised coding questions
