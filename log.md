@@ -584,3 +584,7 @@
 ## Day 94: September 10, 2020 
 
 **Today's Progress**: Learned php online and practised coding questions
+
+## Day 95: September 11, 2020 
+
+**Today's Progress**: Solved 2 more questions completely and 1 partially in Codechef September long challenge
