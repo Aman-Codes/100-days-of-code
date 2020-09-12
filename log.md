@@ -588,3 +588,7 @@
 ## Day 95: September 11, 2020 
 
 **Today's Progress**: Solved 2 more questions completely and 1 partially in Codechef September long challenge
+
+## Day 96: September 12, 2020 
+
+**Today's Progress**: Solved 2 questions in Codeforces Round #670 (Div. 2)
