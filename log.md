@@ -592,3 +592,7 @@
 ## Day 96: September 12, 2020 
 
 **Today's Progress**: Solved 2 questions in Codeforces Round #670 (Div. 2)
+
+## Day 97: September 13, 2020 
+
+**Today's Progress**: Solved 2 questions in atCoder contest
