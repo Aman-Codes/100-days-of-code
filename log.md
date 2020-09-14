@@ -596,3 +596,7 @@
 ## Day 97: September 13, 2020 
 
 **Today's Progress**: Solved 2 questions in atCoder contest
+
+## Day 98: September 14, 2020 
+
+**Today's Progress**: Practised questions from codechef
