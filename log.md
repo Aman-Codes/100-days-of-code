@@ -600,3 +600,7 @@
 ## Day 98: September 14, 2020 
 
 **Today's Progress**: Practised questions from codechef
+
+## Day 99: September 15, 2020 
+
+**Today's Progress**: Practised questions on number theory
