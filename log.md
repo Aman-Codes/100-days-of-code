@@ -604,3 +604,7 @@
 ## Day 99: September 15, 2020 
 
 **Today's Progress**: Practised questions on number theory
+
+## Day 100: September 16, 2020 
+
+**Today's Progress**: Practised questions on sieve of eratosthenes
